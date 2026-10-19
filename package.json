@@ -1,0 +1,8 @@
+{
+  "name": "python-portal-1bec305",
+  "version": "1.0.2",
+  "private": true,
+  "description": "Interactive Python Programming (1BEC305) learning portal",
+  "scripts": { "start": "python3 -m http.server 8000", "test": "node tests/qa.mjs" },
+  "devDependencies": { "pyodide": "0.26.4" }
+}

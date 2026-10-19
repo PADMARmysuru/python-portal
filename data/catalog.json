@@ -1,0 +1,31 @@
+{
+  "course": "1BEC305",
+  "modules": 5,
+  "users": [
+    {
+      "id": "001",
+      "name": "Asha",
+      "x": "2",
+      "skills": [
+        "Python",
+        "Verilog"
+      ]
+    },
+    {
+      "id": "009",
+      "name": "Ravi",
+      "x": "7",
+      "skills": [
+        "C"
+      ]
+    },
+    {
+      "id": "014",
+      "name": "Meera",
+      "x": "5",
+      "skills": [],
+      "mentor": null,
+      "active": true
+    }
+  ]
+}

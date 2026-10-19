@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<college name="GSSSIETW">
+  <department code="ECE">
+    <student usn="1GS23EC001">
+      <name>Asha</name>
+      <marks subject="Python">88</marks>
+      <email hide="yes">asha@example.edu</email>
+    </student>
+    <student usn="1GS23EC002">
+      <name>Ravi</name>
+      <marks subject="Python">64</marks>
+    </student>
+    <student usn="1GS23EC003">
+      <name>Meera</name>
+      <marks subject="Python">95</marks>
+    </student>
+  </department>
+</college>
